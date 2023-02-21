@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/UnlockedPwner/build/UnlockedPwner
+/UnlockedPwner/dist
+/UnlockedPwner/UnlockedPwner.spec
